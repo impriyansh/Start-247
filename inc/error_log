@@ -1,0 +1,2 @@
+[31-Mar-2017 14:10:29 Etc/GMT] PHP Notice:  Undefined variable: message in /home/startvms/public_html/inc/sendEmail.php on line 31
+[31-Mar-2017 14:10:29 Etc/GMT] PHP Notice:  Undefined variable: error in /home/startvms/public_html/inc/sendEmail.php on line 47
